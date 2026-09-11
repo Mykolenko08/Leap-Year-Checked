@@ -2,3 +2,9 @@
 A simple C# program that calculates if a year is a leap year or not. 
 
 **[`Program.cs`](https://github.com/Mykolenko08/Leap-Year-Checked/blob/main/Program.cs)**
+
+![img](1.png)
+
+![img](2.png)
+
+![img](3.png)
