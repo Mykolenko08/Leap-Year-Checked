@@ -5,6 +5,11 @@ A simple C# program that calculates if a year is a leap year or not.
 
 ![img](1.png)
 
+![img](4.png)
+
+![img](5.png)
+
+
 ![img](2.png)
 
 ![img](3.png)
